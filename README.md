@@ -8,7 +8,7 @@ A simple crawler made in JavaScript for Node.
 
 ### How to install from GitHub Packages
 
-To install, you first have to follow [this guide](https://docs.github.com/en/packages/learn-github-packages/installing-a-package) on GitHub Docs. Then, you can run:
+To install, you first have to follow [this guide](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#installing-a-package) on GitHub Docs. Then, you can run:
 
 ```bash
 $ npm install crawling
