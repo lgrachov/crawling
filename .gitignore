@@ -130,7 +130,6 @@ dist
 .pnp.*
 
 # Remove files used by programs and IDEs
-.npmrc
 .zed/
 .vscode/
 .idea/
