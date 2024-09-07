@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "@lgrachov/crawling",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple crawler made in JavaScript for Node.",
   "main": "index.js",
   "scripts": {
@@ -27,9 +27,9 @@
   "author": "Lev Grachov",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/lgrachov/crawler/issues"
+    "url": "https://github.com/lgrachov/crawling/issues"
   },
-  "homepage": "https://github.com/lgrachov/crawler#readme",
+  "homepage": "https://github.com/lgrachov/crawling#readme",
   "dependencies": {
     "got": "^14.4.2",
     "node-html-parser": "^6.1.13"
