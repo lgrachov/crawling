@@ -11,7 +11,7 @@ A simple crawler made in JavaScript for Node.
 To install, you first have to follow [this guide](https://docs.github.com/en/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#installing-a-package) on GitHub Docs. Then, you can run:
 
 ```bash
-$ npm install @lgrachov/crawling@1.0.0
+$ npm install @lgrachov/crawling@1.0.1
 ```
 
 This should install the package in your project.
